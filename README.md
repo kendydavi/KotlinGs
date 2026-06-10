@@ -103,9 +103,7 @@ O **AgroSat Sentinel** responde diretamente à sugestão de **monitoramento agr�
 | Tela | Print |
 |------|-------|
 | Splash | <img width="350" height="654" alt="image" src="https://github.com/user-attachments/assets/a83fba5e-78a8-4b19-921a-a68c2b6b8bf2" /> |
-| Onboarding | <img width="374" height="658" alt="image" src="https://github.com/user-attachments/assets/f4390436-9e52-4572-8a67-286c67134628" />
- <img width="370" height="666" alt="image" src="https://github.com/user-attachments/assets/d25f750e-1c4c-4170-b32b-7992b7584d77" />
- <img width="369" height="660" alt="image" src="https://github.com/user-attachments/assets/4e190113-2df4-4b63-bb80-e8a49ce2f0c1" /> |
+| Onboarding | <img width="374" height="658" alt="image" src="https://github.com/user-attachments/assets/f4390436-9e52-4572-8a67-286c67134628" /> <img width="370" height="666" alt="image" src="https://github.com/user-attachments/assets/d25f750e-1c4c-4170-b32b-7992b7584d77" /> <img width="369" height="660" alt="image" src="https://github.com/user-attachments/assets/4e190113-2df4-4b63-bb80-e8a49ce2f0c1" /> |
 | Home | <img width="378" height="670" alt="image" src="https://github.com/user-attachments/assets/483fa881-4fdc-44ed-bdc8-7e44fdb252de" /> |
 | Talhões | <img width="376" height="666" alt="image" src="https://github.com/user-attachments/assets/9c35c6a6-2e78-4760-b06c-be753097a94d" /> |
 | Detalhe Talhão | <img width="370" height="674" alt="image" src="https://github.com/user-attachments/assets/a22d63e6-ec05-4264-8309-7b3befb2c233" /> |
